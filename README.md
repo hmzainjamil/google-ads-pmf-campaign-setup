@@ -1,5 +1,9 @@
 # PMF_Google_Ads_Setup
 
+<!-- HMZ PORTFOLIO STANDARD -->
+> Portfolio status: active · Visibility: public · Source of truth: current repository source.
+<!-- END HMZ PORTFOLIO STANDARD -->
+
 > **PMF Google Ads Setup** — Product-market fit Google Ads: campaign structure, bidding, conversion tracking, and PMF signal thresholds.
 
 <p align="center">
